@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\HomeWorkFileSystem\HomeWorkFileSystem\bin\Debug\HomeWorkFileSystem.exe.config
+C:\Users\User\source\repos\HomeWorkFileSystem\HomeWorkFileSystem\bin\Debug\HomeWorkFileSystem.exe
+C:\Users\User\source\repos\HomeWorkFileSystem\HomeWorkFileSystem\bin\Debug\HomeWorkFileSystem.pdb
+C:\Users\User\source\repos\HomeWorkFileSystem\HomeWorkFileSystem\obj\Debug\HomeWorkFileSystem.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HomeWorkFileSystem\HomeWorkFileSystem\obj\Debug\HomeWorkFileSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWorkFileSystem\HomeWorkFileSystem\obj\Debug\HomeWorkFileSystem.exe
+C:\Users\User\source\repos\HomeWorkFileSystem\HomeWorkFileSystem\obj\Debug\HomeWorkFileSystem.pdb
+C:\Users\User\source\repos\HomeWorkFileSystem\HomeWorkFileSystem\bin\Debug\App.config
